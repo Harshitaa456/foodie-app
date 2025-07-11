@@ -25,4 +25,4 @@ const DishesCard = (props) => {
   );
 };
 
-export default DishesCard;
+export default DishesCard;   
